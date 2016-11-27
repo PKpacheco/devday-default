@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Rio Dev Day"
+title: "Dev Day Conference"
 email: "rio.gdg@gmail.com"
-description: "Evento para juntar as comunidades de desenvolvimento do Rio."
+description: "Event for all comunities ."
 baseurl: "/riodevday.github.io"
 url: "gdgrio.org/riodevday"
 permalink: "/blog/:title"
@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Seres Humanos que curtem tecnologia"
+organizerName: " All humans "
 organizerAlternateName: "Seres Humanos que curtem tecnologia"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "jonatasemidio@gmail.com"
+organizerEmail: "pkcpweb@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://riodevday.github.io/"
 
@@ -44,10 +44,10 @@ c4pUrl: "https://goo.gl/forms/yD2sEXxqfsssUZLn2"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Organizadores"}
- - {permalink: "/communities/", text: "Comunidades"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Organization"}
+ - {permalink: "/communities/", text: "Comunities"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
