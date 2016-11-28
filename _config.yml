@@ -61,9 +61,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "rio-walp.png"
-logoUnigranrio: "riodevday-logo.png"
+logoUnigranrio: "devday_logo.png"
 heroTitle: "Dev Day Conference - <typeout>"
-eventDate: "19 de novembro de 2016"
+eventDate: "2017"
 typeoutTextValues: '"", "Build Better Together", "Python", "Ruby", "Java", "Php", "Javascript", "C", "C#", "Golang"'
 typeoutFallback: "Season"
 heroButtons:
